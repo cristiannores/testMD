@@ -1,0 +1,27 @@
+{
+  "name": "test-md",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
+    "chart.js": "2.5.x",
+    "bootstrap": "4.0.0",
+    "easy-pie-chart": "2.1.x",
+    "font-awesome": "4.7.x",
+    "hammerjs": "^2.0.8",
+    "ng-uikit-pro-standard": "git+https://oauth2:Lc4EaxRUhQ3UocKcLAUq@git.mdbootstrap.com/mdb/angular/ng-uikit-pro-standard.git"
+  },
+  "main": "bundles/test-md.umd.js",
+  "module": "fesm5/test-md.js",
+  "es2015": "fesm2015/test-md.js",
+  "esm5": "esm5/test-md.js",
+  "esm2015": "esm2015/test-md.js",
+  "fesm5": "fesm5/test-md.js",
+  "fesm2015": "fesm2015/test-md.js",
+  "typings": "test-md.d.ts",
+  "metadata": "test-md.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
